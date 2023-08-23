@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "텍스트 RPG 만들기", "텍스트 RPG 만들기\텍스트 RPG 만들기.csproj", "{29567C9C-968F-46DB-AC0A-46D0C0160EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29567C9C-968F-46DB-AC0A-46D0C0160EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29567C9C-968F-46DB-AC0A-46D0C0160EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29567C9C-968F-46DB-AC0A-46D0C0160EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29567C9C-968F-46DB-AC0A-46D0C0160EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B759E371-7B04-4988-BE66-35D43B9D344B}
+	EndGlobalSection
+EndGlobal
