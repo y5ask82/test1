@@ -1,0 +1,14 @@
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.AssemblyInfoInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.AssemblyInfo.cs
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\bin\Debug\net6.0\ConsoleApp21.exe
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\bin\Debug\net6.0\ConsoleApp21.deps.json
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\bin\Debug\net6.0\ConsoleApp21.runtimeconfig.json
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\bin\Debug\net6.0\ConsoleApp21.dll
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\bin\Debug\net6.0\ConsoleApp21.pdb
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.dll
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\refint\ConsoleApp21.dll
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.pdb
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ConsoleApp21.genruntimeconfig.cache
+C:\Users\gr199\OneDrive\바탕 화면\연습용 코드\ConsoleApp21\ConsoleApp21\obj\Debug\net6.0\ref\ConsoleApp21.dll
